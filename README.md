@@ -19,7 +19,7 @@ subsequent image captioning process.
 The trained CNN model analyzes the image and extracts features that represent different
 visual components.
 ### Caption Generation:
-To generate descriptive captions, Model utilizes a Long Short-Term Memory (LSTM)[1]
+To generate descriptive captions, Model utilizes a Long Short-Term Memory (LSTM)
 network, which is a type of recurrent neural network (RNN). The LSTM model takes the
 extracted image features as input and generates contextually relevant captions that describe
 the visual content in the image. The captions are designed to be informative and meaningful
